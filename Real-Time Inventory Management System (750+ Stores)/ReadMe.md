@@ -7,7 +7,7 @@ It supports real-time updates, reliable sync, resilient edge operations, and eff
 
 ## 📌 Architecture Overview
 
-![Inventory Architecture](diagrams/inventory-architecture.png)
+![Inventory Architecture](inventory-architecture.png)
 
 ---
 
