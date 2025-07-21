@@ -90,9 +90,4 @@ It supports real-time updates, reliable sync, resilient edge operations, and eff
 
 ---
 
-## 📂 Files
-- `diagrams/inventory-architecture.drawio` – Editable architecture
-- `diagrams/inventory-architecture.png` – Image for inline rendering
-- `docs/inventory-design.md` – This page in markdown
-
 ---
